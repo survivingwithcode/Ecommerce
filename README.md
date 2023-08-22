@@ -23,5 +23,9 @@ As the developer behind this project, it takes immense pride in crafting this we
 
 ![Screenshot_20230119_113723](https://github.com/survivingwithcode/Ecommerce/assets/121130403/e0141cc6-5b83-48ab-84ff-58472cc9150c)
 
+![cart page](https://github.com/survivingwithcode/Ecommerce/assets/121130403/3f7660f4-cea0-4e65-9c06-abb2542117be)
+
+
+
 
 
